@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MadLab2</string>
+    <string name="Msg2">This is my Text View 2</string>
+    <string name="Msg1">This is my Text View 1</string>
+</resources>
